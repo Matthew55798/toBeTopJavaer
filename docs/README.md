@@ -20,6 +20,9 @@
 
 ### 在线阅读
 
+GitHub Pages 完整阅读：[进入](https://your-username.github.io/java-learning-path/)
+s
+
 - 原版阅读地址：
   - GitHub Pages：[https://hollischuang.github.io/toBeTopJavaer/](https://hollischuang.github.io/toBeTopJavaer/)
   - Gitee Pages：[http://hollischuang.gitee.io/tobetopjavaer](http://hollischuang.gitee.io/tobetopjavaer)
