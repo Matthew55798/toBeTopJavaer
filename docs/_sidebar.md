@@ -1,11 +1,3 @@
-## To Be Top Javaer  -  Java工程师成神之路
-
-![](https://img.shields.io/badge/version-v2.0.0-green.svg) ![](https://img.shields.io/badge/author-Hollis-yellow.svg) ![](https://img.shields.io/badge/license-GPL-blue.svg)
-
-
-### 目录
-
-
 * 基础篇
 
     * 面向对象
