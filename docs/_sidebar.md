@@ -67,7 +67,7 @@
 
             * [replaceFirst、replaceAll、replace区别](/basics/java-basic/replace-in-string.md)
 
-            * [String对“+”的重载](/basics/java-basic/string-append.md)
+            * [String对"+"的重载](/basics/java-basic/string-append.md)
 
             * [字符串拼接的几种方式和区别](/basics/java-basic/string-concat.md)
             
@@ -499,7 +499,7 @@
         
             * 阻塞锁
         
-            * [[乐观锁与悲观锁]]
+            * [乐观锁与悲观锁](/basics/concurrent-coding/optimistic-vs-pessimistic-locking.md)
         
             * 数据库相关锁机制
         
@@ -793,19 +793,19 @@
     * 设计模式
         
         * 面向对象的基本原则-SOLID
-            - [[单一职责原则（Single Responsibility Principle）]]
+            - [单一职责原则](/advance/design-patterns/single-responsibility-principle.md)
             
-            - [[开放封闭原则（Open-Closed principle）]]
+            - [开放封闭原则](/advance/design-patterns/open-closed-principle.md)
             
-            * [[里氏代换原则（Liskov Substitution Principle）]]
+            * [里氏代换原则](/advance/design-patterns/liskov-substitution-principle.md)
             
-            * [[接口隔离原则（Interface Segregation Principle）]]
+            * [接口隔离原则](/advance/design-patterns/interface-segregation-principle.md)
             
-            * [[依赖倒转原则（Dependence Inversion Principle）]]
+            * [依赖倒转原则](/advance/design-patterns/dependence-inversion-principle.md)
             
         * 其他原则
             
-            * [[迪米特法则（最少知道原则）（Demeter Principle）]]
+            * [迪米特法则](/advance/design-patterns/demeter-principle.md)
             
             * 合成复用原则（Composite Reuse Principle）
             
