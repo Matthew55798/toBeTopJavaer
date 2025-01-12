@@ -793,19 +793,19 @@
     * 设计模式
         
         * 面向对象的基本原则-SOLID
-            * [单一职责原则](/advance/design-patterns/single-responsibility-principle.md)
+            * [单一职责原则](/advance/design-patterns/单一职责原则（Single%20Responsibility%20Principle）.md)
+
+            * [开放封闭原则](/advance/design-patterns/开放封闭原则（Open-Closed%20principle）.md)
             
-            * [开放封闭原则](/advance/design-patterns/open-closed-principle.md)
+            * [里氏代换原则](/advance/design-patterns/里氏代换原则（Liskov%20Substitution%20Principle）.md)
             
-            * [里氏代换原则](/advance/design-patterns/liskov-substitution-principle.md)
+            * [接口隔离原则](/advance/design-patterns/接口隔离原则（Interface%20Segregation%20Principle）.md)
             
-            * [接口隔离原则](/advance/design-patterns/interface-segregation-principle.md)
-            
-            * [依赖倒转原则](/advance/design-patterns/dependence-inversion-principle.md)
+            * [依赖倒转原则](/advance/design-patterns/依赖倒转原则（Dependence%20Inversion%20Principle）.md)
             
         * 其他原则
             
-            * [迪米特法则](/advance/design-patterns/demeter-principle.md)
+            * [迪米特法则](/advance/design-patterns/迪米特法则（Demeter%20Principle）.md)
             
             * 合成复用原则（Composite Reuse Principle）
             
