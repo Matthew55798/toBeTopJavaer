@@ -507,7 +507,7 @@
             
         * 无锁
         
-            * [[compare-and-swap|CAS]]
+            * [CAS](/basics/concurrent-coding/compare-and-swap.md)
     
         * 锁优化
         
@@ -793,9 +793,9 @@
     * 设计模式
         
         * 面向对象的基本原则-SOLID
-            - [单一职责原则](/advance/design-patterns/single-responsibility-principle.md)
+            * [单一职责原则](/advance/design-patterns/single-responsibility-principle.md)
             
-            - [开放封闭原则](/advance/design-patterns/open-closed-principle.md)
+            * [开放封闭原则](/advance/design-patterns/open-closed-principle.md)
             
             * [里氏代换原则](/advance/design-patterns/liskov-substitution-principle.md)
             
