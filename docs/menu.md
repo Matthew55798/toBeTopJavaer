@@ -2,60 +2,6 @@
 
 ![](https://img.shields.io/badge/version-v2.0.0-green.svg) ![](https://img.shields.io/badge/author-Hollis-yellow.svg) ![](https://img.shields.io/badge/license-GPL-blue.svg)
 
-成神之路系列丛书的第一本《深入理解Java核心技术（基础篇）》已经正式出版了，这本书囊括了<Java工程师成神之路>中基础篇的几乎全部内容，欢迎大家购买品鉴。
-
-![](contact/book.jpeg)
-
-| 主要版本 | 更新时间       | 备注             |
-| ---- | ---------- | -------------- |
-| v4.0 | 2022-05-20 | 知识体系完善，知识点补充|
-| v3.0 | 2020-03-31 | 知识体系完善，在v2.0的基础上，新增20%左右的知识点<br>调整部分知识的顺序及结构，方便阅读和理解<br>通过GitHub Page搭建，便于阅读|
-| v2.0 | 2019-02-19 | 结构调整，更适合从入门到精通；<br>进一步完善知识体系； <br>新技术补充；|
-| v1.1 | 2018-03-12 | 增加新技术知识、完善知识体系 |
-| v1.0 | 2015-08-01 | 首次发布           |
-
-
-目前正在更新中... 
-
-欢迎大家参与共建~
-
-### 联系我们
-
-欢迎关注作者的公众号，可以直接后台留言。
-
-![](contact/wechat-hollis.jpg)
-
-*公众号后台回复："成神导图"，即可获取《Java工程师成神之路最新版思维导图》* 
-
-
-### 关于作者
-
-Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘金优秀作者，《程序员的三门课》联合作者，《Java工程师成神之路》系列文章作者；热衷于分享计算机编程相关技术，博文全网阅读量上千万。
-
-
-### 开源协议
-
-本着互联网的开放精神，本项目采用开放的[GPL]协议进行许可。
-
-
-### 参与共建
-
-如果您对本项目中的内容有建议或者意见
-
-如果你对本项目中未完成的章节感兴趣
-
-欢迎提出专业方面的修改建议及供稿，供稿只接受原创
-
-请直接在[GitHub](https://github.com/hollischuang/toBeTopJavaer)上以issue或者PR的形式提出
-
-如果本项目中的内容侵犯了您的任何权益，欢迎通过邮箱(hollischuang@gmail)与我联系
-
-### 在线阅读地址
-
-GitHub Pages 完整阅读：[进入](https://hollischuang.github.io/toBeTopJavaer/)
-
-Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) (国内访问速度较快)
-
 
 ### 目录
 
@@ -65,12 +11,10 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
     * 面向对象
     
         * 什么是面向对象
-        
+            
             * [面向对象与面向过程](/basics/object-oriented/object-oriented-vs-procedure-oriented.md)
-        
+            
             * [面向对象的三大基本特征](/basics/object-oriented/characteristics.md)
-        
-            * [面向对象的五大基本原则](/basics/object-oriented/principle.md)
             
         * 封装、继承、多态
             * [什么是多态](/basics/object-oriented/polymorphism.md)
@@ -80,9 +24,9 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             * [Java的继承与实现](/basics/object-oriented/extends-implement.md)
             
             * [Java为什么不支持多继承](/basics/object-oriented/multiple-inheritance.md)
-        
+            
             * [Java的继承与组合](/basics/object-oriented/inheritance-composition.md)
-        
+            
             * [构造函数与默认构造函数](/basics/object-oriented/constructor.md)
             
             * [类变量、成员变量和局部变量](/basics/object-oriented/variable.md)
@@ -90,11 +34,11 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             * [成员变量和方法作用域](/basics/object-oriented/scope.md)
             
         * 平台无关性
-        
+            
             * [Java如何实现的平台无关性的](/basics/object-oriented/platform-independent.md)
             
             * [JVM还支持哪些语言](/basics/object-oriented/jvm-language.md)
-        
+            
         * 值传递
     
             * [值传递、引用传递](/basics/object-oriented/java-pass-by.md)
@@ -563,7 +507,7 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
         
             * 阻塞锁
         
-            * 乐观锁与悲观锁
+            * [[乐观锁与悲观锁]]
         
             * 数据库相关锁机制
         
@@ -571,9 +515,7 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             
         * 无锁
         
-            * CAS
-        
-            * CAS的ABA问题
+            * [[compare-and-swap|CAS]]
     
         * 锁优化
         
@@ -858,17 +800,20 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             
     * 设计模式
         
-        * 设计模式的六大原则
+        * 面向对象的基本原则-SOLID
+            - [[单一职责原则（Single Responsibility Principle）]]
             
-            * 开闭原则（Open Close Principle）
+            - [[开放封闭原则（Open-Closed principle）]]
             
-            * 里氏代换原则（Liskov Substitution Principle）
+            * [[里氏代换原则（Liskov Substitution Principle）]]
             
-            * 依赖倒转原则（Dependence Inversion Principle）
+            * [[接口隔离原则（Interface Segregation Principle）]]
             
-            * 接口隔离原则（Interface Segregation Principle）
+            * [[依赖倒转原则（Dependence Inversion Principle）]]
             
-            * 迪米特法则（最少知道原则）（Demeter Principle）
+        * 其他原则
+            
+            * [[迪米特法则（最少知道原则）（Demeter Principle）]]
             
             * 合成复用原则（Composite Reuse Principle）
             

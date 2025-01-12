@@ -14,5 +14,6 @@ JUnit 促进了“先测试后编码”的理念，强调建立测试数据的�
 * JUnit 测试可以被组织为测试套件，包含测试用例，甚至其他的测试套件。
 * JUnit 在一个条中显示进度。如果运行良好则是绿色；如果运行失败，则变成红色。 JUnit知识经常 和测试驱动开发的讨论融合在一起。可以参考Kent Beck的 《Test-Driven Development: By Example》一书（有中文版和影印版）。
 
-
-推荐一份JUnit的教程，可以帮助你快速的学习使用它：https://wiki.jikexueyuan.com/project/junit/
+关联阅读：
+- TDD
+- 测试驱动开发

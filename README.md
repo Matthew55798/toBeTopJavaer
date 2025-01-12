@@ -1,8 +1,10 @@
-## To Be Top Javaer  -  Java工程师成神之路
+## To Be Top Javaer - Java工程师成神之路
 
 ![](https://img.shields.io/badge/version-v2.0.0-green.svg) ![](https://img.shields.io/badge/author-Hollis-yellow.svg) ![](https://img.shields.io/badge/license-GPL-blue.svg)
 
+这是一个 fork 自 [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) 的个人版本。
 
+### 版本历史
 
 | 主要版本 | 更新时间       | 备注             |
 | ---- | ---------- | -------------- |
@@ -12,52 +14,34 @@
 | v1.1 | 2018-03-12 | 增加新技术知识、完善知识体系 |
 | v1.0 | 2015-08-01 | 首次发布           |
 
+### 项目说明
 
-Java成神之路全套面试题——围绕成神之路，500多道题，60多万字>>>
+这是我在学习 Java 过程中的个人笔记和实践记录。我会根据自己的学习进度和理解，对原项目内容进行补充和调整。
 
-![Java八股](http://www.hollischuang.com/wp-content/uploads/2023/10/640.png)
+### 在线阅读
 
+- 原版阅读地址：
+  - GitHub Pages：[https://hollischuang.github.io/toBeTopJavaer/](https://hollischuang.github.io/toBeTopJavaer/)
+  - Gitee Pages：[http://hollischuang.gitee.io/tobetopjavaer](http://hollischuang.gitee.io/tobetopjavaer)
 
-扫码下单后，按照短信提示操作即可。
+### 致谢
 
-目前正在更新中... 
-
-欢迎大家参与共建~
-
-### 联系我们
-
-欢迎关注作者的公众号，可以直接后台留言。
-
-![](docs/contact/wechat-hollis.jpg)
-
-*公众号后台回复："成神导图"，即可获取《Java工程师成神之路最新版思维导图》* 
-
-
-### 在线阅读地址
-
-GitHub Pages 完整阅读：[进入](https://hollischuang.github.io/toBeTopJavaer/)
-
-Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) (国内访问速度较快)
-
-
-### 关于作者
-
-Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘金优秀作者，《深入理解Java核心技术》作者，《程序员的三门课》联合作者，《Java工程师成神之路》系列文章作者；热衷于分享计算机编程相关技术，博文全网阅读量上千万。
-
+感谢原作者 Hollis 提供的优质学习资源。原作者介绍：
+- Hollis：阿里巴巴技术专家
+- 著有《深入理解Java核心技术》、《程序员的三门课》等
+- 「Java工程师成神之路」系列文章作者
 
 ### 开源协议
 
-本着互联网的开放精神，本项目采用开放的[GPL]协议进行许可。
+本项目遵循原项目的 [GPL] 协议。
 
+### 参与贡献
 
-### 参与共建
+如果您发现任何问题或有改进建议，欢迎：
+1. 提交 Issue
+2. 创建 Pull Request
+3. 直接与我联系
 
-如果您对本项目中的内容有建议或者意见
+### 免责声明
 
-如果你对本项目中未完成的章节感兴趣
-
-欢迎提出专业方面的修改建议及供稿，供稿只接受原创
-
-请直接在[GitHub](https://github.com/hollischuang/toBeTopJavaer)上以issue或者PR的形式提出
-
-如果本项目中的内容侵犯了您的任何权益，欢迎通过邮箱(hollischuang@gmail)与我联系
+本仓库为个人学习使用，如有任何侵权问题，请联系我进行处理。

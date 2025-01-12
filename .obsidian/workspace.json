@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "5acfefc0e19e6886",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7b91be2de034e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8475e6ed01f02c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/menu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "menu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02647e8d54f70471",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2b78bad1094067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ec6ae395221e52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "edbb9c3b099ad124",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "662ffd5badab7f6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3b89467bec7fdd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f798ca7bd115143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d9f8fb70880c9cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/menu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "menu 的反向链接列表"
+            }
+          },
+          {
+            "id": "2e890c925c64e40c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/menu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "menu 的出链列表"
+            }
+          },
+          {
+            "id": "3ffdea26fcbcf146",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "352480e362eb03a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/menu.md"
+              },
+              "icon": "lucide-list",
+              "title": "menu 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8475e6ed01f02c80",
+  "lastOpenFiles": [
+    "docs/basics/object-oriented/polymorphism.md",
+    "basics/object-oriented/polymorphism.md",
+    "docs/_sidebar.md",
+    "docs/_coverpage.md",
+    "docs/basics/object-oriented/object-oriented-vs-procedure-oriented.md",
+    "basics/object-oriented/object-oriented-vs-procedure-oriented.md",
+    "docs/menu.md",
+    "basics/object-oriented",
+    "basics",
+    "README.md",
+    "mind-map.md"
+  ]
+}
