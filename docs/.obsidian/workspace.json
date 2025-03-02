@@ -4,63 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "8e2f38ab3ac609bd",
+        "id": "c8ebcac19970223d",
         "type": "tabs",
         "children": [
           {
-            "id": "c824201ba0aa7f5b",
+            "id": "62c54e5744c48bdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "advance/design-patterns/接口隔离原则（Interface Segregation Principle）.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "接口隔离原则（Interface Segregation Principle）"
+              "title": "_sidebar"
             }
           },
           {
-            "id": "7abdfb6848a2d382",
+            "id": "cfa1f007a83dbf8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "advance/design-patterns/迪米特法则（最少知道原则）（Demeter Principle）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "迪米特法则（最少知道原则）（Demeter Principle）"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
-            "id": "c76b4d71685ff929",
+            "id": "346c8136e4f2a407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menu.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "menu"
-            }
-          },
-          {
-            "id": "8bf8168bafedcfe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "advance/design-patterns/依赖倒转原则（Dependence Inversion Principle）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "依赖倒转原则（Dependence Inversion Principle）"
+              "title": "_sidebar"
             }
           }
         ],
@@ -83,7 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -136,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menu.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "menu 的反向链接列表"
+              "title": "_sidebar 的反向链接列表"
             }
           },
           {
@@ -205,15 +188,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c76b4d71685ff929",
+  "active": "346c8136e4f2a407",
   "lastOpenFiles": [
-    "advance/design-patterns/开放封闭原则（Open-Closed principle）.md",
-    "basics/object-oriented/principle.md",
-    "menu.md",
+    "_sidebar.md",
+    "basics/concurrent-coding/progress-vs-thread.md",
+    "basics/concurrent-coding/thread-safe.md",
+    "basics/concurrent-coding/compare-and-swap.md",
     "advance/design-patterns/单一职责原则（Single Responsibility Principle）.md",
     "advance/design-patterns/依赖倒转原则（Dependence Inversion Principle）.md",
-    "advance/design-patterns/接口隔离原则（Interface Segregation Principle）.md",
+    "advance/design-patterns.md",
+    "basics/concurrent-coding/乐观锁与悲观锁.md",
+    "basics/concurrent-coding/optimistic-vs-pessimistic-locking.md",
     "advance/design-patterns/迪米特法则（最少知道原则）（Demeter Principle）.md",
+    "menu.md",
+    "_coverpage.md",
+    "README.md",
+    "_sidebar.md.md",
+    "advance/design-patterns/开放封闭原则（Open-Closed principle）.md",
+    "basics/object-oriented/principle.md",
+    "advance/design-patterns/接口隔离原则（Interface Segregation Principle）.md",
     "basics/object-oriented/characteristics.md",
     "basics/object-oriented/object-oriented-vs-procedure-oriented.md",
     "advance/design-patterns/里氏代换原则（Liskov Substitution Principle）.md",
@@ -222,16 +215,6 @@
     "advance/design-patterns/builder-pattern.md",
     "basics/object-oriented/polymorphism.md",
     "basics/object-oriented/multiple-inheritance.md",
-    "advance/design-patterns/adapter-pattern.md",
-    "advance/design-patterns/abstract-factory-pattern.md",
-    "basics/concurrent-coding/compare-and-swap.md",
-    "basics/concurrent-coding/create-thread-with-extends.md",
-    "advance/design-patterns/开闭原则（Open Close Principle）.md",
-    "advance/design-patterns/singleton-pattern.md",
-    "basics/java-basic/success-isSuccess-and-boolean-Boolean.md",
-    "CAS.md",
-    "_sidebar.md",
-    "basics/concurrent-coding/progress-vs-thread.md",
-    "basics/concurrent-coding/concurrent-vs-parallel.md"
+    "advance/design-patterns/adapter-pattern.md"
   ]
 }
